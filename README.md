@@ -1,4 +1,4 @@
-# Hi, I'm Mukesh Kumar Thakur 👋
+# Hi, I'm Mukesh Kumar Thakur 
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 
 ## About Me
 
-I’m a passionate [your profession/role] who loves building clean, scalable, and user-focused digital experiences. I enjoy turning ideas into products, solving challenging problems, and learning new technologies along the way.
+I’m a passionate BSc IT who loves building clean, scalable, and user-focused digital experiences. I enjoy turning ideas into products, solving challenging problems, and learning new technologies along the way.
 
 - 🔭 Currently working on: [your current focus/project]
 - 🌱 Learning: [technology/framework/topic]
