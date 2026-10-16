@@ -37,7 +37,9 @@ fun_fact: "Consistency + Learning + Practice = Growth"
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <!-- Add more badges here, e.g. Python, C#, Bootstrap -->
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 ### Tools
@@ -46,7 +48,29 @@ fun_fact: "Consistency + Learning + Practice = Growth"
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Community_2026-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
 </p>
+
+### Skills
+
+<p>
+  <img src="https://img.shields.io/badge/Problem_Solving_%26_Coding-FF6F00?style=for-the-badge" />
+</p>
+
+### Skills & Technologies
+
+| # | Skill | What I use it for |
+|---|-------|-------------------|
+| 01 | **HTML** | Web Structure & Markup |
+| 02 | **CSS** | Web Design & Styling |
+| 03 | **JavaScript** | Interactive Web Development |
+| 04 | **C#** | Application Development |
+| 05 | **PHP** | Server-Side Development |
+| 06 | **Bootstrap** | Responsive UI Development |
+| 07 | **Visual Studio Code** | Code Editor & Development |
+| 08 | **Problem Solving & Coding** | Logical Thinking & Solutions |
+| 09 | **GitHub** | Version Control & Collaboration |
+| 10 | **Visual Studio Community 2026** | Integrated Development Environment |
 
 ---
 
