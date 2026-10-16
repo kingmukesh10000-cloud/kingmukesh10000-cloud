@@ -5,10 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Web+Developer+%7C+Problem+Solver;Consistency+%2B+Learning+%2B+Practice+%3D+Growth" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kingmukesh10000-cloud&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/kingmukesh10000-cloud?style=flat&logo=github" alt="followers" />
-</p>
+
 
 ---
 
