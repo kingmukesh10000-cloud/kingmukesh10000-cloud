@@ -12,13 +12,13 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: Mukesh Kumar Thakur
-location: Kathmandu, Nepal
-role: Undergraduate Student & Aspiring Software Engineer
-degree: BSc (Hons) Computer Science
-institution: ISMT College | University of Sunderland
-goal: Become a Professional Software Engineer
-fun_fact: "Consistency + Learning + Practice = Growth"
+Nmae: Mukesh Kumar Thakur
+Location: Kathmandu, Nepal
+Role: Undergraduate Student & Aspiring Software Engineer
+Degree: BSc (Hons) Computer Science
+Institution: ISMT College | University of Sunderland
+Goal: Become a Professional Software Engineer
+Fun_fact: "Consistency + Learning + Practice = Growth"
 ```
 
 - 🎓 Currently pursuing **BSc (Hons) Computer Science** at **ISMT College**, affiliated with the **University of Sunderland**
