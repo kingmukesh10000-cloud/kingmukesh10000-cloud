@@ -74,7 +74,7 @@ Fun_fact: "Consistency + Learning + Practice = Growth"
 
 ---
 
-## 🚀 Featured Projects
+## My Projects
 
 ### 🌐 My Portfolio Website
 Personal portfolio showcasing my projects, services, skills and education.
