@@ -12,7 +12,7 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-Nmae: Mukesh Kumar Thakur
+Name: Mukesh Kumar Thakur
 Location: Kathmandu, Nepal
 Role: Undergraduate Student & Aspiring Software Engineer
 Degree: BSc (Hons) Computer Science
