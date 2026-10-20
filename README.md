@@ -103,7 +103,7 @@ A web application for managing medical laboratory operations, including patient 
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 [![Live Site](https://img.shields.io/badge/Live_Site-2EA44F?style=flat-square&logo=vercel&logoColor=white)](https://life-care-lab-app.vercel.app)
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github)](https://github.com/kingmukesh10000-cloud/life-care-medical-laboratory)
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github)](https://github.com/kingmukesh10000-cloud/Life-Care-Medical-Laboratory)
 
 ---
 
@@ -115,7 +115,8 @@ A flower shop website with an online ordering system, showcasing products and se
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 [![Live Site](https://img.shields.io/badge/Live_Site-2EA44F?style=flat-square&logo=vercel&logoColor=white)](https://sayapatri-blooms-flowers.vercel.app)
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github)](https://github.com/kingmukesh10000-cloud/sayapatri-blooms-flowers)
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github)](https://github.com/kingmukesh10000-cloud/Sayapatri_Blooms_Flowers)
+
 
 ---
 
@@ -127,7 +128,7 @@ A dairy management system for tracking milk production, sales, and inventory.
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 [![Live Site](https://img.shields.io/badge/Live_Site-2EA44F?style=flat-square&logo=vercel&logoColor=white)](https://krishna-dudh-dairy.vercel.app)
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github)](https://github.com/kingmukesh10000-cloud/krishna-dudh-dairy)
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github)](https://github.com/kingmukesh10000-cloud/Krishna_Dudh_Dairy)
 
 ---
 
